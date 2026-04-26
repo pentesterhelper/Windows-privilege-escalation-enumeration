@@ -7,7 +7,6 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.1.0-orange?style=flat-square)](https://github.com/pentesterhelper/wins-enum/releases)
 [![Website](https://img.shields.io/badge/Website-pentesterhelper.in-purple?style=flat-square)](https://pentesterhelper.in)
 
 *A comprehensive, single-script Windows privilege escalation checker for penetration testers and CTF players.*
